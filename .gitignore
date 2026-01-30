@@ -1,0 +1,18 @@
+# Action Runner Diagnostics and Logs
+/_diag/
+*.log
+
+# Runner Configuration and Credentials
+/.runner
+/.credentials
+/.credentials_rsaparams
+/.config
+
+# Downloaded Binaries and Tools
+/bin/
+/externals/
+
+# Temporary files and build artifacts
+.tmp
+.DS_Store
+actions-runner/
