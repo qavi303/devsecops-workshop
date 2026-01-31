@@ -6,4 +6,4 @@ RUN npm install
 COPY app/ .
 EXPOSE 3000
 # Change to index.js or app.js based on your main file name
-CMD ["node", "app.js"]
+CMD ["node", "index.js"]
