@@ -17,4 +17,4 @@ EXPOSE 3000
 
 # 6. Start the app
 # Based on your previous logs, make sure this is app.js or index.js
-CMD ["node", "app.js"]
+CMD ["node", "index.js"]
