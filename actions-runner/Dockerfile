@@ -10,4 +10,4 @@ COPY app/ .
 
 EXPOSE 3000
 # Ensure this matches the file name in your 'app/' folder
-CMD ["node", "app.js"]
+CMD ["node", "index.js"]
